@@ -18,9 +18,14 @@ Testing         31/10/21         Aditya
 =============  =========       =============
 
 .. image:: Screenshot 2022-03-27 005248.png
-Welcome to Lumache's documentation!
+
+Tech Stack
 ===================================
-Lumache has its documentation hosted on Read the Docs.
+* Python - Beautiful Soup(HTML Parser)
+* Firebase
+* Flask  (Python Web Framework) 
+* React JS 
+* HTML-CSS
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -32,7 +37,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under Completed.
 
 Contents
 --------
