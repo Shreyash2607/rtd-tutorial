@@ -1,3 +1,23 @@
+Project Requirement
+===================================
+To track various Products on E-commerece websites and Notify Users when Price 
+goes below a Threshold value.
+
+Project Source Code:<https://github.com/sarnobatadi/Selenium-Price-Tracker-Deployment/>
+
+
+Project Timeline
+===================================
+=============  =========       =============
+Tasks          Due Date        Task Assigned
+=============  =========       =============
+Design          2/9/21           Aditya
+Architecture    6/10/21          Shreyash
+Development     31/10/21         Onkar
+Testing         31/10/21         Aditya
+=============  =========       =============
+
+.. image:: Screenshot 2022-03-27 005248.png
 Welcome to Lumache's documentation!
 ===================================
 Lumache has its documentation hosted on Read the Docs.
